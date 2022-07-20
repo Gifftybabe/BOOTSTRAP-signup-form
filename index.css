@@ -116,13 +116,13 @@ body {
 
 
 .hero-img {
-    background: url('../image/pix.jpg');
-    background-size: cover;
-    background-position-x: 70%;
-    background-position-y: 70%;
-    width: 100%;
-    height: 150vh;
-    animation: introLoad 2s forwards;
+    background: url('../image/pix.jpg') !important;
+    background-size: cover !important;
+    background-position-x: 70% !important;
+    background-position-y: 70% !important;
+    width: 100% !important;
+    height: 150vh !important;
+    animation: introLoad 2s forwards !important;
     
 
 
