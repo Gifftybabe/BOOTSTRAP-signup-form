@@ -116,7 +116,7 @@ body {
 
 
 .hero-img {
-    background: url('../image/pix.jpg') !important;
+    background: url('../image/pix.jpg');
     background-size: cover !important;
     background-position-x: 70% !important;
     background-position-y: 70% !important;
